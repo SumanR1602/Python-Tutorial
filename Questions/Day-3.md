@@ -1,6 +1,6 @@
 # Problem-Solving Questions
 
-## 1️. Modules & Packages (10 Tricky Questions)
+## 1️. Modules & Packages 
 
 1. If you have a file named `tools.py` with:
     ```python
@@ -39,7 +39,7 @@
 
 ---
 
-## 2️. Comments & Escape Characters (10 Tricky Questions)
+## 2️. Comments & Escape Characters
 
 1. What will be printed?
     ```python
@@ -99,7 +99,7 @@
 
 ---
 
-## 3️. Variables, Data Types & Operators (10 Tricky Questions)
+## 3️. Variables, Data Types & Operators
 
 1. What will be printed?
     ```python
