@@ -1,6 +1,4 @@
-# 📘 Day 3 - Variables and Data Types in Python
-
----
+# Day 3 - Variables and Data Types in Python
 
 ## 1️. What is a Variable?
 
@@ -32,7 +30,7 @@ In python, we can print the type of any operator using type function
 
 ## 3️. Types of Data Types
 
-### 🔹 Numeric Types
+###  Numeric Types
 
 | Type    | Example | Description      |
 |---------|---------|------------------|
@@ -41,25 +39,25 @@ In python, we can print the type of any operator using type function
 | complex | 2+3j    | Complex numbers  |
 
 
-### 🔹 Set Types
+### Set Types
 
 | Type      | Example                    | Mutable/Immutable |
 |-----------|----------------------------|-------------------|
 | set       | {1,2,3}                    | Mutable           |
 | frozenset | frozenset([1,2,3])         | Immutable         |
 
-### 🔹 Mapping Type
+### Mapping Type
 
 | Type | Example                  | Mutable/Immutable |
 |------|--------------------------|-------------------|
 | dict | {"a":1, "b":2}           | Mutable           |
 
-### 🔹 Boolean Type
+### Boolean Type
 
 - `True` or `False`
 - Used for logical conditions.
 
-### 🔹 Sequence Types
+### Sequence Types
 
 | Type  | Example      | Mutable/Immutable |
 |-------|--------------|-------------------|

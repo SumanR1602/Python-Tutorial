@@ -1,8 +1,6 @@
-# 📘 Day 3 - Operators in Python
+# Day 4 - Operators in Python
 
----
-
-## 🔹 What is an Operator?
+##  What is an Operator?
 
 An **operator** is a symbol that performs operations on variables and values.
 
@@ -15,7 +13,7 @@ print(a + b)  # + is an operator, output: 15
 
 ---
 
-## 🔹 Types of Operators in Python
+## Types of Operators in Python
 
 ### 1️. Arithmetic Operators – Perform Math Operations
 
@@ -74,7 +72,7 @@ print(a + b)  # + is an operator, output: 15
 | Operator | Meaning      | Example   | Output |
 |----------|-------------|-----------|--------|
 | `&`      | AND         | 5 & 3     | 1      |
-| `|`      | OR          | 5 &#124; 3| 7      |
+| `\|`      | OR          | 5 &#124; 3| 7      |
 | `^`      | XOR         | 5 ^ 3     | 6      |
 | `~`      | NOT         | ~5        | -6     |
 | `<<`     | Left shift  | 5 << 1    | 10     |

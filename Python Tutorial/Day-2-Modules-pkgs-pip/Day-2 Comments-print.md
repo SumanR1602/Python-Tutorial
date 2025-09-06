@@ -1,12 +1,12 @@
-# 📘 Day 2 - Comments, Escape Sequences & Print in Python
+#  Day 2 - Comments, Escape Sequences & Print in Python
 
 ---
 
-## 📌 Comments in Python
+##  Comments in Python
 
 Comments are notes in your code that Python ignores during execution. They help humans understand the code better.They are used to explain a block of code.
 
-### ✅ Single-line Comments
+###  Single-line Comments
 
 Use `#` for single-line comments.
 
@@ -15,7 +15,7 @@ Use `#` for single-line comments.
 print("Hello, Python!")  # You can also write a comment after code
 ```
 
-### ✅ Multi-line Comments
+###  Multi-line Comments
 
 Use triple quotes (`'''` or `"""`) for multi-line comments.
 
@@ -27,13 +27,13 @@ that can span multiple lines.
 print("Learning Python is fun!")
 ```
 
-#### ⌨️ Shortcut for Comments (Windows)
+#### ⌨ Shortcut for Comments (Windows)
 
 To quickly comment/uncomment code: **Ctrl + /**
 
 ---
 
-## 📌 Escape Sequence Characters
+##  Escape Sequence Characters
 
 Escape sequence characters allow you to insert special characters into strings that are otherwise difficult or impossible to type directly.
 
@@ -68,7 +68,7 @@ print("C:\\Users\\Adam")    # Prints a file path
 
 ---
 
-## 📌 The print() Function – Special Parameters
+##  The print() Function – Special Parameters
 
 The `print()` function has some useful arguments:
 
@@ -81,7 +81,7 @@ The `print()` function has some useful arguments:
 print("hello", 3, 4, sep='-', end='*')
 ```
 
-**👉 Output:**
+**Output:**
 ```
 hello-3-4*
 ```

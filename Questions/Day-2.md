@@ -1,8 +1,6 @@
-# 📘 Day 2 - Q/A: Comments, Escape Sequences, Modules & Packages
+#  Day 2 - Q/A: Comments, Escape Sequences, Modules & Packages
 
----
-
-## 📝 Theory Questions
+##  Theory Questions
 
 ### 1. Comments & Escape Sequences
 
@@ -27,7 +25,7 @@
 
 ---
 
-## 💡 Conceptual & Trick Questions
+##  Conceptual & Trick Questions
 
 ### 3. Comments & Escape Sequences
 
@@ -47,7 +45,7 @@
 
 ---
 
-### 4. Modules & Packages (with Traps)
+### 4. Modules & Packages 
 
 - **Q14:** Suppose you have a file `math_utils.py` with a function `add(a, b)`. You import it using:
   ```python
@@ -81,7 +79,7 @@
 
 ---
 
-## 🧩 Coding Problems (with Traps)
+## Coding Problems
 
 ### 5. Practice Problems
 

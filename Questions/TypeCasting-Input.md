@@ -1,8 +1,6 @@
-# Day 4 - Type Casting & Input in Python: Theory and Tricky Questions
+# Day 4 - Type Casting & Input in Python: Theory
 
----
-
-## 📝 Theoretical Questions
+##  Theoretical Questions
 
 1. What is type casting in Python? Why is it important?
 2. What is the difference between implicit and explicit type casting? Give examples.
@@ -17,7 +15,7 @@
 
 ---
 
-## 🧩 Tricky/Problem-Solving Questions
+## Problem-Solving Questions
 
 1. What will be the output?  
     ```python

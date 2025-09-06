@@ -1,12 +1,10 @@
-# 📘 Day 2 - Modules, Packages, and pip in Python
+#  Day 2 - Modules, Packages, and pip in Python
 
----
-
-## 🔹 What is a Module?
+##  What is a Module?
 
 A **module** is simply a Python file (`.py`) that contains functions, classes, or variables which you can import and reuse in other programs.
 
-### 👉 Benefits:
+### Benefits:
 - Reuse code instead of writing it again (avoid redundancy).
 - Make programs more organized and maintainable.
 
@@ -31,7 +29,7 @@ print(math.sqrt(16))  # Output: 4.0
 
 ---
 
-### 📌 You can also create your own module:
+###  You can also create your own module:
 
 **math_utils.py**
 ```python
@@ -47,7 +45,7 @@ print(math_utils.add(2, 3))  # Output: 5
 
 ---
 
-## 🔹 What is a Package?
+## What is a Package?
 
 A **package** is a collection of modules stored in a directory.  
 The folder must contain a special file named `__init__.py` (even if empty). This tells Python: “This is a package.” It also Lets you control which modules or functions are available when the package is imported.
@@ -68,7 +66,7 @@ print(math_utils.add(2, 3))
 
 ---
 
-## 📌 Difference between Module and Package
+## Difference between Module and Package
 
 | Module                | Package                                   |
 |-----------------------|-------------------------------------------|
@@ -77,7 +75,7 @@ print(math_utils.add(2, 3))
 
 ---
 
-## 🔹 pip – Python’s Package Manager
+## pip – Python’s Package Manager
 
 **pip** helps us install, upgrade, or uninstall external Python packages.
 
@@ -96,7 +94,7 @@ pip install numpy
 
 ---
 
-## 🔹 Checking Available Modules & Packages
+## Checking Available Modules & Packages
 
 - **Built-in + Installed Modules:**
   ```python

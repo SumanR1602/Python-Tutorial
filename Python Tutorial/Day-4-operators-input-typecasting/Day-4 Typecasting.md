@@ -1,6 +1,5 @@
 # Day 4 - Type Casting in Python
 
----
 
 ## What is Type Casting?
 The conversion of one data type into the other data type is known as **type casting** in python or type conversion in python.
